@@ -1,8 +1,8 @@
 
 # BIC21203 Lab 4a: Client-Side Scripting (JavaScript)
 
-**Name:** Viineshya Vijian
-**Student ID:** AI240138
+**Name:** Viineshya Vijian<br>
+**Student ID:** AI240138<br>
 **Course:** BIC21203 Web Development
 
 ## Lab Description
