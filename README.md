@@ -37,8 +37,8 @@ This lab demonstrates the use of JavaScript functions, event handling, input val
 
 <img width="557" height="250" alt="Screenshot 2026-10-26 073806" src="https://github.com/user-attachments/assets/e019c570-9937-4bcf-8cc7-348a6cd8873a" />
 <img width="557" height="250" alt="Screenshot 2026-10-26 073840" src="https://github.com/user-attachments/assets/1aee5421-53b6-40e8-96a0-d66407defd88" />
-<img width="557" height="250" alt="Screenshot 2026-10-26 073849" src="https://github.com/user-attachments/assets/48f95a1e-5ba4-45f5-a214-13f1316087cd" />
 <img width="557" height="250" alt="Screenshot 2026-10-26 073935" src="https://github.com/user-attachments/assets/66376f97-a3d5-4397-a5a0-5d6a7dd3e64e" />
+<img width="620" height="213" alt="Screenshot 2026-10-26 083206" src="https://github.com/user-attachments/assets/a9a54d92-50e1-4958-b286-aa855e84bbe4" />
 
 
 ## Question 3: Dynamic Number Generator
