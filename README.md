@@ -51,5 +51,6 @@ This lab demonstrates the use of JavaScript functions, event handling, input val
 3. Check that five list items appear and that clicking again does not create duplicates.
 
 **Output screenshot:** 
-<img width="603" height="301" alt="Screenshot 2026-10-26 075013" src="https://github.com/user-attachments/assets/ff886611-1ecf-4c33-873c-a1fe79a98460" />
+
+<img width="570" height="290" alt="Screenshot 2026-10-26 075013" src="https://github.com/user-attachments/assets/ff886611-1ecf-4c33-873c-a1fe79a98460" />
 
